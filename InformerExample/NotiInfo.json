@@ -1,0 +1,11 @@
+{
+    "jobIcon": "job.ico",
+    "interval": 10,
+    "notifyIcon": {
+        "file": "favicon.ico",
+        "height": 32,
+        "width": 32
+    },
+    "title": "Danger!!",
+    "content": "Danger Content"
+}
