@@ -3,4 +3,5 @@ InformerExample2
 *.obj
 *.dll
 *.exe
+*.lib
 *.o
